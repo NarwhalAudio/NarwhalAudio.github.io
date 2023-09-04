@@ -3,3 +3,7 @@ description: Audio plugins 'n stuff.
 remote_theme: "pmarsceill/just-the-docs"
 
 url: https://NarwhalAudio.github.io
+
+nav_external_links:
+  - title: Narwhal Audio GitHub
+    url: https://github.com/NarwhalAudio
