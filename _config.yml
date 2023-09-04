@@ -4,6 +4,12 @@ remote_theme: "pmarsceill/just-the-docs"
 
 url: https://NarwhalAudio.github.io
 
-nav_external_links:
-  - title: Narwhal Audio GitHub
-    url: https://github.com/NarwhalAudio
+# Aux links for the upper right navigation
+aux_links:
+  "View Narwhal Audio on GitHub":
+    - "https://github.com/NarwhalAudio"
+  "Donate on Ko-Fi":
+    - "https://ko-fi.com/coffeecoder1"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
