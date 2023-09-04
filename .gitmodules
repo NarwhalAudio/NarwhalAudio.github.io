@@ -1,4 +1,0 @@
-[submodule "docs/test"]
-	path = docs/test
-	url = https://github.com/NarwhalAudio/test.git
-	branch = docs
