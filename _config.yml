@@ -1,6 +1,6 @@
 title: Narwhal Audio
 description: Open-source audio plugins and hardware.
-remote_theme: "pmarsceill/just-the-docs"
+theme: just-the-docs
 
 url: https://NarwhalAudio.github.io
 
