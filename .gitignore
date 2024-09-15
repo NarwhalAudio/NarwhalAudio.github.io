@@ -10,3 +10,6 @@ _site/
 vendor/
 
 .lock
+
+# MacOS stuff
+.DS_Store
